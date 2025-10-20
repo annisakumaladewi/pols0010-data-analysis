@@ -11,6 +11,9 @@ All R scripts are in the [`/code`](code/) folder.
 
 ## 🖼️ Figures
 Example outputs and flowcharts are in [`/figures`](figures/):
-![Function Flowchart](figures/function_flowchart.png)
-
+![Function Flowchart](figures/flowchart.png)
+![Moran's I Formula](figures/formula.png)
+![Figure 1: Global Moran's I Result](figures/figure%201.png)
+![Figure 2: Local Continuous Moran's I](figures/figure%202.png)
+![Figure 3: LISA Map](figures/figure%203.png)
 ---
